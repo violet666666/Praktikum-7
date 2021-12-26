@@ -1,0 +1,25 @@
+* {
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000080;
+}
+
+.myLogo {
+    display: flex;
+    justify-content: left;
+}
+
+.logo {
+    width: 130px;
+    height: 70px;
+}
+
+.title-logo {
+    margin-top: 10px;
+    color: #000080;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
